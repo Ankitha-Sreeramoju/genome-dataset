@@ -1,0 +1,4 @@
+git add .gitattributes
+git add your_large_file.csv
+git commit -m "Add large file via Git LFS"
+git push origin main
